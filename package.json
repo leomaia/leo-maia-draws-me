@@ -1,10 +1,14 @@
 {
-  "name": " ",
+  "name": "Leo Maia Draws",
   "version": "0.0.1",
-  "description": "",
+  "description": "Leo Maia illustrations personal website",
   "keywords": "",
-  "license": "",
-  "author": "",
+  "license": "GNU",
+  "author": {
+    "name": "Leonardo da Cunha Maia",
+    "email": "oleomaia@gmail.com",
+    "url": "https://github.com/leomaia/leo-maia-draws-me"
+  },
   "scripts": {
     "build": "parcel build index.html",
     "dev": "parcel index.html --open",
