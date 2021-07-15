@@ -1,0 +1,6 @@
+.DS_Store
+.nova/
+.cache/
+node_modules/
+bower_components/
+dist/
