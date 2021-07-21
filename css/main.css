@@ -93,8 +93,12 @@ body {
 }
 
 a {
-  color: #f858ab;
+  color: #F222FF;
   font-weight: bold;
+}
+
+a:hover {
+    text-decoration: none;
 }
 
 header, main {
@@ -109,7 +113,7 @@ header, main {
 
 .avatar {
   width: 100px;
-  background: #f858ab;
+  background: #F222FF;
   border-radius: 50%;
 }
 
