@@ -152,6 +152,7 @@ header, main {
 
 .gallery img {
   max-width: 100%;
+  background: rgba(0,0,0,0.15);
 }
 
 /* Image modal */
